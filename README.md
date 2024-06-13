@@ -1,5 +1,5 @@
 # ✨
-🔭 I’m currently working on Inventory System w Analytics<br>⚡ Fun fact there is no Fun here
+🔭 None <br>⚡ Fun fact there is no Fun here
 
 
 # 💻 Tech Stack:
