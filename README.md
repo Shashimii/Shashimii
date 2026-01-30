@@ -1,4 +1,3 @@
-# Email me @ besasamreginald36@gmail.com
 🔭 None <br>⚡ Fun fact there is no Fun here
 
 
