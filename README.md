@@ -1,13 +1,3 @@
-
-<h2 align="left"></h2>
-
-###
-
-<div align="center">
-</div>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
@@ -36,6 +26,9 @@
   <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
 </div>
 
+<div align="center">
+</div>
+
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/L_wc4wdG0x4AAAAM/%ED%95%B4%EB%A6%B0-%EA%B3%A0%EC%96%91%EC%9D%B4.gif"  />
@@ -48,17 +41,11 @@
   <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shashimii/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shashimii&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashimii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Shashimii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shashimii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashimii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
