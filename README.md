@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shashimii/Shashimii/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shashimii/output/snake.svg" alt="Snake animation" />
 
 ###
 
