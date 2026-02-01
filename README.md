@@ -40,7 +40,7 @@
 
 Projects
 
- - 📱[Win10 Calculator](https://win10calcjs-azagctg8s-shashimii.vercel.app/) Perfect clone of windows 10 calculator in HTML
+ - 📱[Win10 Calculator](https://win10calcjs-azagctg8s-shashimii.vercel.app/) - Perfect clone of windows 10 calculator in HTML
 
 ---
 
