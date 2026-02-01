@@ -38,11 +38,10 @@
 </tr>
 </table>
 
-## 📌 Featured Projects
+Projects
 
 - **Currently Working on Side Projects**  
 
-## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shashimii&theme=tokyonight&hide_border=false)
 
