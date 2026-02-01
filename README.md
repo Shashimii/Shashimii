@@ -42,8 +42,14 @@ Projects
 
 - **Currently Working on Side Projects**  
 
+---
+
+<div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shashimii&theme=tokyonight&hide_border=false)
+
+
+</div>
 
 
 
