@@ -26,7 +26,7 @@
 
 <td valign="top" align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashimii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 </td>
 
@@ -47,7 +47,7 @@ Projects
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shashimii&theme=tokyonight&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashimii&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
